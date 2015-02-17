@@ -1,0 +1,46 @@
+---
+layout: default
+title: Membersihkan Data
+---
+
+<h1 class="module-heading">Membersihkan Data</h1>
+
+<div class="pages">
+  <div class="page">
+  {% capture modules_basic %}
+
+  {% include modules/cleaning/1.1-introduction-open-refine.md %}
+
+  {% include modules/cleaning/1.2-installing-open-refine.md %}
+
+  {% include modules/cleaning/1.3-creating-new-project.md %}
+
+  {% include modules/cleaning/1.4-exploring-main-interface.md %}
+
+  {% include modules/cleaning/1.5-working-with-columns.md %}
+
+  {% include modules/cleaning/1.6-using-project-history.md %}
+
+  {% endcapture %}
+  
+  {{ modules_basic | markdownify }}
+  
+  <hr />
+  
+  {% capture modules_intermediate %}
+
+  {% include modules/cleaning/2.1-sorting-data.md %}
+
+  {% include modules/cleaning/2.2-faceting-data.md %}
+
+  {% include modules/cleaning/2.3-detecting-duplicates.md %}
+
+  {% include modules/cleaning/2.4-removing-duplicates.md %}
+
+  {% include modules/cleaning/2.5-using-common-transforms.md %}
+
+  {% endcapture %}
+  
+  {{ modules_intermediate | markdownify }}
+  </div>
+</div>
