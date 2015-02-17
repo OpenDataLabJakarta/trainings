@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ODLab Training
+description:      'Bahan-bahan pelatihan data terbuka di satu tempat'
+url:              http://opendatalabjakarta.github.io/trainings/
+
+author:
+  name:           'Josef Hardi'
+  url:            https://twitter.com/josefhardi
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/opendatalabjakarta/trainings

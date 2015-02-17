@@ -1,0 +1,80 @@
+body {
+  font-family: "Noto Serif", "DejaVu Serir", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+@media (min-width: 48rem) {
+  html {
+    font-size: 80%;
+  }
+}
+@media (min-width: 58rem) {
+  html {
+    font-size: 90%;
+  }
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+/* Sidebar style override */
+.sidebar {
+   font-size: 90%;
+}
+
+.sidebar-nav h2 {
+  margin-top: 1.5em;
+  color: #ba3925;
+  font-family: serif;
+  font-size: 1.15rem;
+}
+
+.sidebar-nav h3 {
+  margin-top: 1.35em;
+  color: #ba3925;
+  font-family: serif;
+  font-size: 1.15rem;
+}
+
+.content {
+  padding-top: 1rem;
+  padding-bottom: 4rem;
+}
+
+/* Image resize */
+img[alt="newproject"] {
+  max-width: 700px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="maingui"] {
+  max-width: 500px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="menucolumn"] {
+  max-width: 140px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="collapsecolumn"] {
+  max-width: 700px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="restructurecolumn"] {
+  max-width: 400px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="projecthistory"] {
+  max-width: 250px;
+  display: block;
+  border: 1px solid #ccc;
+}
