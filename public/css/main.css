@@ -126,3 +126,15 @@ img[alt="timelinerange"] {
   display: block;
   border: 1px solid #ccc;
 }
+
+img[alt="idcolumn"] {
+  max-width: 400px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="duplicatesfacet"] {
+  max-width: 400px;
+  display: block;
+  border: 1px solid #ccc;
+}
