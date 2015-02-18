@@ -92,37 +92,37 @@ img[alt="sortpermanent"] {
 }
 
 img[alt="textfacet"] {
-  max-width: 480px;
+  max-width: 280px;
   display: block;
   border: 1px solid #ccc;
 }
 
 img[alt="textinclude"] {
-  max-width: 480px;
+  max-width: 280px;
   display: block;
   border: 1px solid #ccc;
 }
 
 img[alt="numericfacet"] {
-  max-width: 400px;
+  max-width: 320px;
   display: block;
   border: 1px solid #ccc;
 }
 
 img[alt="numericrange"] {
-  max-width: 400px;
+  max-width: 320px;
   display: block;
   border: 1px solid #ccc;
 }
 
 img[alt="timelinefacet"] {
-  max-width: 400px;
+  max-width: 320px;
   display: block;
   border: 1px solid #ccc;
 }
 
 img[alt="timelinerange"] {
-  max-width: 400px;
+  max-width: 320px;
   display: block;
   border: 1px solid #ccc;
 }
