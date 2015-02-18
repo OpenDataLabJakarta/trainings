@@ -183,3 +183,9 @@ img[alt="removeduplicates"] {
   display: block;
   border: 1px solid #ccc;
 }
+
+img[alt="commontransforms"] {
+  max-width: 300px;
+  display: block;
+  border: 1px solid #ccc;
+}
