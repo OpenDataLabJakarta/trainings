@@ -52,6 +52,12 @@ h3 {
 }
 
 /* Image resize */
+img[alt="openrefinelogo"] {
+  max-width: 420px;
+  padding-top: 13px;
+  display: block;
+}
+
 img[alt="newproject"] {
   max-width: 750px;
   display: block;
