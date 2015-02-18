@@ -138,3 +138,39 @@ img[alt="duplicatesfacet"] {
   display: block;
   border: 1px solid #ccc;
 }
+
+img[alt="errorentry"] {
+  max-width: 850px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="twoduplicates"] {
+  max-width: 280px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="sortfirst"] {
+  max-width: 550px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="blankdown"] {
+  max-width: 280px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="emptycells"] {
+  max-width: 850px;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+img[alt="removeduplicates"] {
+  max-width: 300px;
+  display: block;
+  border: 1px solid #ccc;
+}
