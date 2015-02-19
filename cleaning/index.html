@@ -42,5 +42,21 @@ title: Membersihkan Data
   {% endcapture %}
   
   {{ modules_intermediate | markdownify }}
+  
+  <hr />
+  
+  {% capture modules_advanced %}
+
+  {% include modules/cleaning/3.3-clustering-data.md %}
+
+  {% include modules/cleaning/3.4-transforming-data.md %}
+
+  {% include modules/cleaning/3.5-splitting-data.md %}
+
+  {% include modules/cleaning/3.6-transposing-rows-columns.md %}
+
+  {% endcapture %}
+  
+  {{ modules_advanced | markdownify }}
   </div>
 </div>

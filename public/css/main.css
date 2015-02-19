@@ -195,3 +195,9 @@ img[alt="commontransforms"] {
   display: block;
   border: 1px solid #ccc;
 }
+
+img[alt="clustering-dialog"] {
+  max-width: 720px;
+  display: block;
+  border: 1px solid #ccc;
+}
