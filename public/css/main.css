@@ -207,3 +207,9 @@ img[alt="transforming-dialog"] {
   display: block;
   border: 1px solid #ccc;
 }
+
+img[alt="splitting-dialog"] {
+  max-width: 470px;
+  display: block;
+  border: 1px solid #ccc;
+}
