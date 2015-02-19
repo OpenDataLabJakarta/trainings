@@ -201,3 +201,9 @@ img[alt="clustering-dialog"] {
   display: block;
   border: 1px solid #ccc;
 }
+
+img[alt="transforming-dialog"] {
+  max-width: 500px;
+  display: block;
+  border: 1px solid #ccc;
+}
